@@ -1,0 +1,10 @@
+[package]
+name = "totoro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+colored = "2.1.0"
+config = "0.14.1"
+figlet-rs = "0.1.5"
+serde = "1.0.215"
